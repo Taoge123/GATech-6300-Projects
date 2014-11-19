@@ -1,0 +1,43 @@
+Student Information
+      Name: Josepha Jube
+      Email: jj@gatech.edu
+      GT ID: 901234502
+
+Programming Experience
+      C: 2 year(s)
+      C++: 2 year(s)
+      Java: 3 year(s)
+      CS Job Experience: 
+
+Class Information
+      Attendance: 80
+
+Assignment Information: 
+      Assignment 1
+      Student Grade: 100% (avg: 99%)
+      Description: swiki page
+
+      Assignment 2
+      Student Grade: 100% (avg: 100%)
+      Description: software prototyping
+
+      Assignment 3
+      Student Grade: 71% (avg: 77%)
+      Description: junit and coverage
+
+Project Information:
+      Project:P1
+      Team 2
+      Team Grade: 96%
+      Student Contribution: 9.5
+
+      Project:P2
+      Team 2
+      Team Grade: 96%
+      Student Contribution: 7.75
+
+      Project:P3
+      Team 2
+      Team Grade: 96%
+      Student Contribution: 9.25
+

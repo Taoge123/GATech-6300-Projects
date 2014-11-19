@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Lame Duck Coffee!</string>
+    <string name="app_name">LameDucks Coffee</string>
+    <string name="title_activity_main">Main Menu</string>
+    <string name="title_section1">VIP Customer Management</string>
+    <string name="title_section2">Pre-Order Item(s)</string>
+    <string name="title_section3">Purchase Item(s)</string>
+    <string name="title_section4">Set Coffee Cart Location</string>
+    <string name="title_section5">Generate Report</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vipcustomer_mangement_fragment">VIPCustomer Mangement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="load_vip_customer">Load VIP Customer</string>
+    <string name="add_vip_customer">Add VIP Customer</string>
+    <string name="vip_customer_id">VIP Customer ID</string>
+    <string name="vip_customer_points">VIP Points: Monthly (Lifetime)</string>
+    <string name="saved_coffeecartlocation">saved_coffeecartlocation</string>
+    <string name="monthly_report">Monthly</string>
+    <string name="lifetime_report">Lifetime</string>
+
+    <color name="red">#660000</color>
+    <color name="green">#006600</color>
+    <color name="light_green">#98FC8D</color>
+
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="vip_customer_number">VIP Customer Number</string>
+    <string name="save">Save</string>
+    <string name="preorder_item">Preorder Item</string>
+    <string name="current_coffee_cart_location">Current Coffee Cart Location</string>
+    <string name="pickup_date">Pickup Date</string>
+    <string name="vip_customer">VIP Customer</string>
+    <string name="product">Product</string>
+    <string name="save_preorder">Save Preorder</string>
+    <string name="purchase_item">Purchase Item</string>
+    <string name="save_purchase">Save Purchase</string>
+    <string name="large_text">Large Text</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="generate_daily_report">Refresh Daily Report</string>
+    <string name="vip_gold_level">VIP Gold Level</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="order_history">Order History</string>
+    <string name="modify_customer">Modify Customer</string>
+    <string name="select_coffee_cart_location">Select Coffee Cart Location</string>
+
+</resources>
